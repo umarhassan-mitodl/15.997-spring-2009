@@ -5,6 +5,8 @@ description: Solutions to a problem set on risk neutral pricing of payoffs tied 
 file: /courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/d173c2215fc0e8aca6de25cec613cf7b_sol_pset2.xls
 file_size: 292864
 file_type: application/msword
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

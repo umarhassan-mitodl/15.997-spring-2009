@@ -5,6 +5,8 @@ description: Solutions to a problem set on valuation of a business tied to the c
 file: /courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/84bc45f2e63f8f5bf553fc58650b82b6_sol_pset3.xls
 file_size: 329728
 file_type: application/msword
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

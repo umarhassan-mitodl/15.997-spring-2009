@@ -5,6 +5,8 @@ description: Solutions to a problem set on simulating the risk distribution of t
 file: /courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/b2cc2c75400b45c99cdda1e0638a4c93_sol_pset1.xls
 file_size: 325120
 file_type: application/msword
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

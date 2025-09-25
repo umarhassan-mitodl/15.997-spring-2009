@@ -5,6 +5,8 @@ description: Discussion questions for a case study of the the Antamina mining co
 file: /courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/80501238b27cbebfc43125908f60fb8f_MIT15_997s09_assn03_case03.pdf
 file_size: 22106
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

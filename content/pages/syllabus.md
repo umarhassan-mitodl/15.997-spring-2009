@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides information on course objectives, meeting
   times, prerequisites, format, grading, additional resources, a topic outline, and
   the schedule of lecture and recitation sessions.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
