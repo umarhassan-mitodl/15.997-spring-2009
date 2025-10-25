@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the list of readings for each lecture session,
   course notes, and information on topics and cases covered.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

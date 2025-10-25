@@ -5,8 +5,6 @@ description: Discussion questions for a case study of Aspen Technology, Inc., it
 file: /courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/4dd6c1d26d8ffa4240dede76fdf2c0a3_MIT15_997s09_assn02_case02.pdf
 file_size: 18912
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
